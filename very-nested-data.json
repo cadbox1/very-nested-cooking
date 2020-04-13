@@ -1,262 +1,110 @@
 {
- "activity": [
-  {
-   "name": "content update",
-   "content": "this looks like a very basic notes ap",
-   "affectedId": "216889af-4ee0-4efa-a8e2-1fb2f39f209b",
-   "date": "2020-04-13T00:46:22.559Z"
-  },
-  {
-   "name": "content update",
-   "content": "",
-   "affectedId": "48a19e61-f479-426d-8b8a-9d8cf4281ce3",
-   "date": "2020-04-13T00:47:20.293Z"
-  },
-  {
-   "name": "content update",
-   "content": "",
-   "affectedId": "b6bede60-661a-4fea-bcb9-04fc662e64a7",
-   "date": "2020-04-13T00:47:23.510Z"
-  },
-  {
-   "name": "content update",
-   "content": "task",
-   "affectedId": "2ee582b0-f760-4546-ad28-cec9a068c1ca",
-   "date": "2020-04-13T00:47:24.597Z"
-  },
-  {
-   "name": "content update",
-   "content": "",
-   "affectedId": "b68a7905-81e2-4ee5-afe6-3b0d365e26e2",
-   "date": "2020-04-13T00:47:26.751Z"
-  },
-  {
-   "name": "content update",
-   "content": "",
-   "affectedId": "c8f8959a-7b8a-48ba-ae67-e044f459a398",
-   "date": "2020-04-13T00:47:29.358Z"
-  },
-  {
-   "name": "content update",
-   "content": "backlo",
-   "affectedId": "2c8a2cfc-b608-40e6-a9d6-ccb045f748ad",
-   "date": "2020-04-13T00:47:29.700Z"
-  },
-  {
-   "name": "content update",
-   "content": "",
-   "affectedId": "5edc3499-640f-409c-bcdb-b9fc3c75cc86",
-   "date": "2020-04-13T00:47:32.849Z"
-  },
-  {
-   "name": "content update",
-   "content": "",
-   "affectedId": "2c8a2cfc-b608-40e6-a9d6-ccb045f748ad",
-   "date": "2020-04-13T00:47:36.006Z"
-  },
-  {
-   "name": "content update",
-   "content": "",
-   "affectedId": "2ee582b0-f760-4546-ad28-cec9a068c1ca",
-   "date": "2020-04-13T00:47:39.206Z"
-  },
-  {
-   "name": "content update",
-   "content": "note",
-   "affectedId": "9defb443-0277-4144-9fa7-36bfd5b3ee30",
-   "date": "2020-04-13T00:47:39.568Z"
-  },
-  {
-   "name": "content update",
-   "content": "",
-   "affectedId": "fe99a49c-4e81-4462-80a0-6313d9019923",
-   "date": "2020-04-13T00:47:45.194Z"
-  },
-  {
-   "name": "content update",
-   "content": "",
-   "affectedId": "4cd0044c-9da7-43ae-b450-46edfe8295e2",
-   "date": "2020-04-13T00:47:46.754Z"
-  },
-  {
-   "name": "content update",
-   "content": "",
-   "affectedId": "216889af-4ee0-4efa-a8e2-1fb2f39f209b",
-   "date": "2020-04-13T00:47:48.679Z"
-  },
-  {
-   "name": "content update",
-   "content": "Recipes",
-   "affectedId": "9defb443-0277-4144-9fa7-36bfd5b3ee30",
-   "date": "2020-04-13T00:48:10.948Z"
-  },
-  {
-   "name": "content update",
-   "content": "All",
-   "affectedId": "0rwUXExHw",
-   "date": "2020-04-13T00:48:18.370Z"
-  },
-  {
-   "name": "content update",
-   "content": "Thai Green Curry",
-   "affectedId": "OEOewbVWh",
-   "date": "2020-04-13T00:48:23.588Z"
-  },
-  {
-   "name": "content update",
-   "content": "Greek Salad",
-   "affectedId": "bIsT1lv4L",
-   "date": "2020-04-13T00:48:27.477Z"
-  },
-  {
-   "name": "content update",
-   "content": "Toby's Chicken",
-   "affectedId": "HEdzn1RZS",
-   "date": "2020-04-13T00:48:34.868Z"
-  },
-  {
-   "name": "content update",
-   "content": "Beef Stir Fry",
-   "affectedId": "28YDiptbl",
-   "date": "2020-04-13T00:48:55.598Z"
-  },
-  {
-   "name": "content update",
-   "content": "Red Pasta",
-   "affectedId": "lgG5lgOg9",
-   "date": "2020-04-13T00:49:02.381Z"
-  },
-  {
-   "name": "content update",
-   "content": "Healthy",
-   "affectedId": "PMOYaGpEw",
-   "date": "2020-04-13T00:49:07.579Z"
-  },
-  {
-   "name": "content update",
-   "content": "Carbonara",
-   "affectedId": "vKZ5SL0bU",
-   "date": "2020-04-13T00:50:55.997Z"
-  }
- ],
- "path": [
-  "a8651768-16fc-48b6-8a86-4a68f3d588a2",
-  "9defb443-0277-4144-9fa7-36bfd5b3ee30",
-  "0rwUXExHw",
-  "vKZ5SL0bU"
- ],
- "item": {
-  "a8651768-16fc-48b6-8a86-4a68f3d588a2": {
-   "id": "a8651768-16fc-48b6-8a86-4a68f3d588a2",
-   "content": "Root",
-   "properties": {},
-   "children": [
-    "9defb443-0277-4144-9fa7-36bfd5b3ee30"
-   ]
-  },
-  "9defb443-0277-4144-9fa7-36bfd5b3ee30": {
-   "id": "9defb443-0277-4144-9fa7-36bfd5b3ee30",
-   "content": "Recipes",
-   "properties": {},
-   "children": [
-    "0rwUXExHw",
-    "PMOYaGpEw"
-   ]
-  },
-  "f035e245-30c1-4cd7-b634-c45d2061e139": {
-   "id": "f035e245-30c1-4cd7-b634-c45d2061e139",
-   "content": "type: task",
-   "properties": {},
-   "children": []
-  },
-  "757059d7-5b70-4c65-be4a-0bf151bdfb02": {
-   "id": "757059d7-5b70-4c65-be4a-0bf151bdfb02",
-   "content": "this task is also in the backlog because it matched the backlog function",
-   "properties": {},
-   "children": []
-  },
-  "78081e0f-a6a1-4df7-b7ab-a986ab3ec0ad": {
-   "id": "78081e0f-a6a1-4df7-b7ab-a986ab3ec0ad",
-   "content": "the notes you write here are also in the backlog because we use references underneath",
-   "properties": {},
-   "children": [
-    "42bb4d6f-5a08-431d-9e9d-d9bc9d903618"
-   ]
-  },
-  "42bb4d6f-5a08-431d-9e9d-d9bc9d903618": {
-   "id": "42bb4d6f-5a08-431d-9e9d-d9bc9d903618",
-   "content": "I like DRY notes (don't repeat yourself)",
-   "properties": {},
-   "children": []
-  },
-  "c3b9065f-5670-46bb-923e-5da8a7074636": {
-   "id": "c3b9065f-5670-46bb-923e-5da8a7074636",
-   "content": "you can mark the task as done by writing \"status: done\" on the next line and then hitting enter. Notice how the item moves from the backlog to done!",
-   "properties": {},
-   "children": []
-  },
-  "0rwUXExHw": {
-   "id": "0rwUXExHw",
-   "content": "All",
-   "properties": {},
-   "children": [
-    "OEOewbVWh",
-    "bIsT1lv4L",
-    "HEdzn1RZS",
-    "28YDiptbl",
-    "lgG5lgOg9",
-    "vKZ5SL0bU"
-   ]
-  },
-  "OEOewbVWh": {
-   "id": "OEOewbVWh",
-   "content": "Thai Green Curry",
-   "properties": {},
-   "children": []
-  },
-  "bIsT1lv4L": {
-   "id": "bIsT1lv4L",
-   "content": "Greek Salad",
-   "properties": {},
-   "children": []
-  },
-  "HEdzn1RZS": {
-   "id": "HEdzn1RZS",
-   "content": "Toby's Chicken",
-   "properties": {},
-   "children": []
-  },
-  "28YDiptbl": {
-   "id": "28YDiptbl",
-   "content": "Beef Stir Fry",
-   "properties": {},
-   "children": []
-  },
-  "lgG5lgOg9": {
-   "id": "lgG5lgOg9",
-   "content": "Red Pasta",
-   "properties": {},
-   "children": []
-  },
-  "PMOYaGpEw": {
-   "id": "PMOYaGpEw",
-   "content": "Healthy",
-   "properties": {},
-   "children": [
-    "bIsT1lv4L",
-    "HEdzn1RZS",
-    "28YDiptbl"
-   ]
-  },
-  "vKZ5SL0bU": {
-   "id": "vKZ5SL0bU",
-   "content": "Carbonara",
-   "properties": {},
-   "children": []
-  }
+ "a8651768-16fc-48b6-8a86-4a68f3d588a2": {
+  "id": "a8651768-16fc-48b6-8a86-4a68f3d588a2",
+  "content": "Root",
+  "properties": {},
+  "children": [
+   "9defb443-0277-4144-9fa7-36bfd5b3ee30"
+  ]
  },
- "_persist": {
-  "version": -1,
-  "rehydrated": true
+ "9defb443-0277-4144-9fa7-36bfd5b3ee30": {
+  "id": "9defb443-0277-4144-9fa7-36bfd5b3ee30",
+  "content": "Recipes",
+  "properties": {},
+  "children": [
+   "0rwUXExHw",
+   "PMOYaGpEw"
+  ]
+ },
+ "f035e245-30c1-4cd7-b634-c45d2061e139": {
+  "id": "f035e245-30c1-4cd7-b634-c45d2061e139",
+  "content": "type: task",
+  "properties": {},
+  "children": []
+ },
+ "757059d7-5b70-4c65-be4a-0bf151bdfb02": {
+  "id": "757059d7-5b70-4c65-be4a-0bf151bdfb02",
+  "content": "this task is also in the backlog because it matched the backlog function",
+  "properties": {},
+  "children": []
+ },
+ "78081e0f-a6a1-4df7-b7ab-a986ab3ec0ad": {
+  "id": "78081e0f-a6a1-4df7-b7ab-a986ab3ec0ad",
+  "content": "the notes you write here are also in the backlog because we use references underneath",
+  "properties": {},
+  "children": [
+   "42bb4d6f-5a08-431d-9e9d-d9bc9d903618"
+  ]
+ },
+ "42bb4d6f-5a08-431d-9e9d-d9bc9d903618": {
+  "id": "42bb4d6f-5a08-431d-9e9d-d9bc9d903618",
+  "content": "I like DRY notes (don't repeat yourself)",
+  "properties": {},
+  "children": []
+ },
+ "c3b9065f-5670-46bb-923e-5da8a7074636": {
+  "id": "c3b9065f-5670-46bb-923e-5da8a7074636",
+  "content": "you can mark the task as done by writing \"status: done\" on the next line and then hitting enter. Notice how the item moves from the backlog to done!",
+  "properties": {},
+  "children": []
+ },
+ "0rwUXExHw": {
+  "id": "0rwUXExHw",
+  "content": "All",
+  "properties": {},
+  "children": [
+   "OEOewbVWh",
+   "bIsT1lv4L",
+   "HEdzn1RZS",
+   "28YDiptbl",
+   "lgG5lgOg9",
+   "vKZ5SL0bU"
+  ]
+ },
+ "OEOewbVWh": {
+  "id": "OEOewbVWh",
+  "content": "Thai Green Curry",
+  "properties": {},
+  "children": []
+ },
+ "bIsT1lv4L": {
+  "id": "bIsT1lv4L",
+  "content": "Greek Salad",
+  "properties": {},
+  "children": []
+ },
+ "HEdzn1RZS": {
+  "id": "HEdzn1RZS",
+  "content": "Toby's Chicken",
+  "properties": {},
+  "children": []
+ },
+ "28YDiptbl": {
+  "id": "28YDiptbl",
+  "content": "Beef Stir Fry",
+  "properties": {},
+  "children": []
+ },
+ "lgG5lgOg9": {
+  "id": "lgG5lgOg9",
+  "content": "Red Pasta",
+  "properties": {},
+  "children": []
+ },
+ "PMOYaGpEw": {
+  "id": "PMOYaGpEw",
+  "content": "Healthy",
+  "properties": {},
+  "children": [
+   "bIsT1lv4L",
+   "HEdzn1RZS",
+   "28YDiptbl"
+  ]
+ },
+ "vKZ5SL0bU": {
+  "id": "vKZ5SL0bU",
+  "content": "Carbonara",
+  "properties": {},
+  "children": []
  }
 }
