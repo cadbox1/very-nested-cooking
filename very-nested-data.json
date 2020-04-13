@@ -131,13 +131,19 @@
    "content": "Healthy",
    "affectedId": "PMOYaGpEw",
    "date": "2020-04-13T00:49:07.579Z"
+  },
+  {
+   "name": "content update",
+   "content": "Carbonara",
+   "affectedId": "vKZ5SL0bU",
+   "date": "2020-04-13T00:50:55.997Z"
   }
  ],
  "path": [
   "a8651768-16fc-48b6-8a86-4a68f3d588a2",
   "9defb443-0277-4144-9fa7-36bfd5b3ee30",
-  "PMOYaGpEw",
-  "YI-twP7fl"
+  "0rwUXExHw",
+  "vKZ5SL0bU"
  ],
  "item": {
   "a8651768-16fc-48b6-8a86-4a68f3d588a2": {
@@ -198,7 +204,8 @@
     "bIsT1lv4L",
     "HEdzn1RZS",
     "28YDiptbl",
-    "lgG5lgOg9"
+    "lgG5lgOg9",
+    "vKZ5SL0bU"
    ]
   },
   "OEOewbVWh": {
@@ -240,6 +247,12 @@
     "HEdzn1RZS",
     "28YDiptbl"
    ]
+  },
+  "vKZ5SL0bU": {
+   "id": "vKZ5SL0bU",
+   "content": "Carbonara",
+   "properties": {},
+   "children": []
   }
  },
  "_persist": {
