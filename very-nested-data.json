@@ -1,57 +1,22 @@
 {
- "a8651768-16fc-48b6-8a86-4a68f3d588a2": {
-  "id": "a8651768-16fc-48b6-8a86-4a68f3d588a2",
-  "content": "Root",
-  "properties": {},
+ "vLlFS3csq": {
+  "id": "vLlFS3csq",
+  "content": "Home",
   "children": [
-   "9defb443-0277-4144-9fa7-36bfd5b3ee30"
+   "r2_QCE3iV"
   ]
  },
- "9defb443-0277-4144-9fa7-36bfd5b3ee30": {
-  "id": "9defb443-0277-4144-9fa7-36bfd5b3ee30",
+ "r2_QCE3iV": {
+  "id": "r2_QCE3iV",
   "content": "Recipes",
-  "properties": {},
   "children": [
    "0rwUXExHw",
    "PMOYaGpEw"
   ]
  },
- "f035e245-30c1-4cd7-b634-c45d2061e139": {
-  "id": "f035e245-30c1-4cd7-b634-c45d2061e139",
-  "content": "type: task",
-  "properties": {},
-  "children": []
- },
- "757059d7-5b70-4c65-be4a-0bf151bdfb02": {
-  "id": "757059d7-5b70-4c65-be4a-0bf151bdfb02",
-  "content": "this task is also in the backlog because it matched the backlog function",
-  "properties": {},
-  "children": []
- },
- "78081e0f-a6a1-4df7-b7ab-a986ab3ec0ad": {
-  "id": "78081e0f-a6a1-4df7-b7ab-a986ab3ec0ad",
-  "content": "the notes you write here are also in the backlog because we use references underneath",
-  "properties": {},
-  "children": [
-   "42bb4d6f-5a08-431d-9e9d-d9bc9d903618"
-  ]
- },
- "42bb4d6f-5a08-431d-9e9d-d9bc9d903618": {
-  "id": "42bb4d6f-5a08-431d-9e9d-d9bc9d903618",
-  "content": "I like DRY notes (don't repeat yourself)",
-  "properties": {},
-  "children": []
- },
- "c3b9065f-5670-46bb-923e-5da8a7074636": {
-  "id": "c3b9065f-5670-46bb-923e-5da8a7074636",
-  "content": "you can mark the task as done by writing \"status: done\" on the next line and then hitting enter. Notice how the item moves from the backlog to done!",
-  "properties": {},
-  "children": []
- },
  "0rwUXExHw": {
   "id": "0rwUXExHw",
   "content": "All",
-  "properties": {},
   "children": [
    "OEOewbVWh",
    "bIsT1lv4L",
@@ -64,37 +29,31 @@
  "OEOewbVWh": {
   "id": "OEOewbVWh",
   "content": "Thai Green Curry",
-  "properties": {},
   "children": []
  },
  "bIsT1lv4L": {
   "id": "bIsT1lv4L",
   "content": "Greek Salad",
-  "properties": {},
   "children": []
  },
  "HEdzn1RZS": {
   "id": "HEdzn1RZS",
   "content": "Toby's Chicken",
-  "properties": {},
   "children": []
  },
  "28YDiptbl": {
   "id": "28YDiptbl",
   "content": "Beef Stir Fry",
-  "properties": {},
   "children": []
  },
  "lgG5lgOg9": {
   "id": "lgG5lgOg9",
   "content": "Red Pasta",
-  "properties": {},
   "children": []
  },
  "PMOYaGpEw": {
   "id": "PMOYaGpEw",
   "content": "Healthy",
-  "properties": {},
   "children": [
    "bIsT1lv4L",
    "HEdzn1RZS",
@@ -104,7 +63,6 @@
  "vKZ5SL0bU": {
   "id": "vKZ5SL0bU",
   "content": "Carbonara",
-  "properties": {},
   "children": []
  }
 }
