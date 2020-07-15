@@ -45,7 +45,9 @@
   "id": "28YDiptbl",
   "content": "Beef Stir Fry",
   "children": [
-   "Utgpm5uIN"
+   "faYZXu-K4",
+   "Utgpm5uIN",
+   "bss_3TKp2"
   ]
  },
  "PMOYaGpEw": {
@@ -60,14 +62,26 @@
  },
  "Utgpm5uIN": {
   "id": "Utgpm5uIN",
-  "content": "Ingredients",
+  "content": "ingredients",
   "children": [
-   "Krf_aK0M7"
+   "Krf_aK0M7",
+   "exM0dQknL",
+   "kaz7wndDO",
+   "AdkpVVOCV",
+   "GcoUzJEdN",
+   "2vtiH5BqD",
+   "Df_kaKn0u",
+   "kcMB92mAA",
+   "rumXnStLR",
+   "JvnJZotzR",
+   "U7DdPzGEm",
+   "EUFZJ7ElH",
+   "DLyZU0Vbr"
   ]
  },
  "Krf_aK0M7": {
   "id": "Krf_aK0M7",
-  "content": "",
+  "content": "500g lean beef mince",
   "children": []
  },
  "UsBjCE2Vc": {
@@ -504,6 +518,144 @@
  "32_3Zfv4f": {
   "id": "32_3Zfv4f",
   "content": "add pasta",
+  "children": []
+ },
+ "exM0dQknL": {
+  "id": "exM0dQknL",
+  "content": "bok choy",
+  "children": []
+ },
+ "kaz7wndDO": {
+  "id": "kaz7wndDO",
+  "content": "spring onion",
+  "children": []
+ },
+ "AdkpVVOCV": {
+  "id": "AdkpVVOCV",
+  "content": "lettuce head",
+  "children": []
+ },
+ "GcoUzJEdN": {
+  "id": "GcoUzJEdN",
+  "content": "2 knuckles of ginger",
+  "children": []
+ },
+ "2vtiH5BqD": {
+  "id": "2vtiH5BqD",
+  "content": "4 cloves of garlic",
+  "children": []
+ },
+ "Df_kaKn0u": {
+  "id": "Df_kaKn0u",
+  "content": "8 portobello mushrooms",
+  "children": []
+ },
+ "kcMB92mAA": {
+  "id": "kcMB92mAA",
+  "content": "4 birds eye chillis",
+  "children": []
+ },
+ "rumXnStLR": {
+  "id": "rumXnStLR",
+  "content": "handful of green beans",
+  "children": []
+ },
+ "JvnJZotzR": {
+  "id": "JvnJZotzR",
+  "content": "1 serve (110g) Kan ton hokkien noodles",
+  "children": []
+ },
+ "U7DdPzGEm": {
+  "id": "U7DdPzGEm",
+  "content": "4 tbsp kikkomansoy sauce",
+  "children": []
+ },
+ "EUFZJ7ElH": {
+  "id": "EUFZJ7ElH",
+  "content": "2 tsp fish sauce",
+  "children": []
+ },
+ "DLyZU0Vbr": {
+  "id": "DLyZU0Vbr",
+  "content": "1 tbsp oyster sauce",
+  "children": []
+ },
+ "bss_3TKp2": {
+  "id": "bss_3TKp2",
+  "content": "method",
+  "children": [
+   "lU8ehfWJH",
+   "sTwuDLzGr",
+   "WlqWkXQzY",
+   "CKP0VGC9i",
+   "5-hxhAsXP",
+   "MBPI9Z-k7",
+   "ANN7vwnFe",
+   "SMZb4VTuM",
+   "thN5NUNzq",
+   "RCN0_e4ZU"
+  ]
+ },
+ "lU8ehfWJH": {
+  "id": "lU8ehfWJH",
+  "content": "cut up everything mose en place",
+  "children": []
+ },
+ "sTwuDLzGr": {
+  "id": "sTwuDLzGr",
+  "content": "heat oil in a pan for a few minutes",
+  "children": []
+ },
+ "WlqWkXQzY": {
+  "id": "WlqWkXQzY",
+  "content": "add mince and start a stopwatch",
+  "children": []
+ },
+ "CKP0VGC9i": {
+  "id": "CKP0VGC9i",
+  "content": "at 2 mins add all the ingredients except for mushroom",
+  "children": []
+ },
+ "MBPI9Z-k7": {
+  "id": "MBPI9Z-k7",
+  "content": "at 6 mins add the sauces",
+  "children": []
+ },
+ "SMZb4VTuM": {
+  "id": "SMZb4VTuM",
+  "content": "at 8 mins add 1 serve of noodles",
+  "children": []
+ },
+ "thN5NUNzq": {
+  "id": "thN5NUNzq",
+  "content": "at 10 mins stop cooking",
+  "children": []
+ },
+ "5-hxhAsXP": {
+  "id": "5-hxhAsXP",
+  "content": "add mushroom when there’s enough room",
+  "children": []
+ },
+ "ANN7vwnFe": {
+  "id": "ANN7vwnFe",
+  "content": "balance the sauces as required",
+  "children": []
+ },
+ "RCN0_e4ZU": {
+  "id": "RCN0_e4ZU",
+  "content": "serve in a bowl with a head of lettuce and some napkins",
+  "children": []
+ },
+ "faYZXu-K4": {
+  "id": "faYZXu-K4",
+  "content": "photo",
+  "children": [
+   "htLcLfeuc"
+  ]
+ },
+ "htLcLfeuc": {
+  "id": "htLcLfeuc",
+  "content": "./files/599E74E3-B3B4-44C4-B5D4-FAD061841980.jpeg",
   "children": []
  }
 }
