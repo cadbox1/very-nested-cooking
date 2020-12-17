@@ -92,6 +92,7 @@
   "id": "UsBjCE2Vc",
   "content": "Nachos",
   "children": [
+   "_hliHgP2b",
    "FmzhtQD_S",
    "oUC2rnYiI",
    "i4-kFoC00",
@@ -791,6 +792,18 @@
  "IoIk2jnbF": {
   "id": "IoIk2jnbF",
   "content": "lime",
+  "children": []
+ },
+ "_hliHgP2b": {
+  "id": "_hliHgP2b",
+  "content": "photo",
+  "children": [
+   "lpM8H3eZD"
+  ]
+ },
+ "lpM8H3eZD": {
+  "id": "lpM8H3eZD",
+  "content": "./files/ED97814F-D953-46C7-A1CA-FAE8819036D8.jpeg",
   "children": []
  }
 }
