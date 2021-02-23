@@ -811,6 +811,7 @@
   "id": "9x3OmK8K3",
   "content": "Chilli Con Carne Bowl",
   "children": [
+   "eKONdOq4a",
    "IzbTAKio6",
    "rKBABELRT"
   ]
@@ -921,6 +922,18 @@
  "X1H06sgFB": {
   "id": "X1H06sgFB",
   "content": "season to taste",
+  "children": []
+ },
+ "eKONdOq4a": {
+  "id": "eKONdOq4a",
+  "content": "photo",
+  "children": [
+   "ITI9euJgQ"
+  ]
+ },
+ "ITI9euJgQ": {
+  "id": "ITI9euJgQ",
+  "content": "./files/B257E8B6-E4E6-42D4-B475-54E3551075A2.jpeg",
   "children": []
  }
 }
