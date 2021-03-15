@@ -27,7 +27,8 @@
    "GKed6eg2R",
    "ePwn-HMrD",
    "3Q4dk01yP",
-   "9x3OmK8K3"
+   "9x3OmK8K3",
+   "riziSSbTA"
   ]
  },
  "OEOewbVWh": {
@@ -940,6 +941,87 @@
  "rX-sKEvDO": {
   "id": "rX-sKEvDO",
   "content": "drain half the water from the beans",
+  "children": []
+ },
+ "riziSSbTA": {
+  "id": "riziSSbTA",
+  "content": "Tuna and Rice",
+  "children": [
+   "zEvd3FYvL",
+   "msV8vvS6k",
+   "wYjkRhM8B"
+  ]
+ },
+ "msV8vvS6k": {
+  "id": "msV8vvS6k",
+  "content": "ingredients",
+  "children": [
+   "2Zb31Of6Z",
+   "4n-EKZTdS",
+   "xBngLOEPr",
+   "7B6bhwS2d"
+  ]
+ },
+ "2Zb31Of6Z": {
+  "id": "2Zb31Of6Z",
+  "content": "1 cup of rice",
+  "children": []
+ },
+ "4n-EKZTdS": {
+  "id": "4n-EKZTdS",
+  "content": "1 425g can of coles pacific yellowfin tuna in olive oil",
+  "children": []
+ },
+ "xBngLOEPr": {
+  "id": "xBngLOEPr",
+  "content": "400g of frozen peas, corn and carrots",
+  "children": []
+ },
+ "7B6bhwS2d": {
+  "id": "7B6bhwS2d",
+  "content": "Sriracha sauce (or your favourite sauce)",
+  "children": []
+ },
+ "wYjkRhM8B": {
+  "id": "wYjkRhM8B",
+  "content": "method",
+  "children": [
+   "xJuTXnciC",
+   "99z7JpB-6",
+   "AKjAaq6uL",
+   "tGbmme2l3"
+  ]
+ },
+ "xJuTXnciC": {
+  "id": "xJuTXnciC",
+  "content": "cook the rice in a rice cooker with 1/4 tsp of salt",
+  "children": [
+   "bx68i8Wmt"
+  ]
+ },
+ "bx68i8Wmt": {
+  "id": "bx68i8Wmt",
+  "content": "highly recommend salting the rice",
+  "children": []
+ },
+ "99z7JpB-6": {
+  "id": "99z7JpB-6",
+  "content": "put the frozen veggies in a bowl and put it in the microwave for 5 minutes",
+  "children": []
+ },
+ "AKjAaq6uL": {
+  "id": "AKjAaq6uL",
+  "content": "drain the excess oil off the tuna",
+  "children": []
+ },
+ "zEvd3FYvL": {
+  "id": "zEvd3FYvL",
+  "content": "Cheap, easy, somewhat healthy meal from ingredients that last for ages",
+  "children": []
+ },
+ "tGbmme2l3": {
+  "id": "tGbmme2l3",
+  "content": "combine everything in a medium mixing bowl",
   "children": []
  }
 }
