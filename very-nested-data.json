@@ -956,6 +956,7 @@
   "content": "Tuna and Rice",
   "children": [
    "zEvd3FYvL",
+   "QzZwPlSz6",
    "msV8vvS6k",
    "wYjkRhM8B"
   ]
@@ -1165,6 +1166,18 @@
  "OctdSWOn8": {
   "id": "OctdSWOn8",
   "content": "add a small amount of sriracha and season",
+  "children": []
+ },
+ "QzZwPlSz6": {
+  "id": "QzZwPlSz6",
+  "content": "photo",
+  "children": [
+   "YrmDJn1NK"
+  ]
+ },
+ "YrmDJn1NK": {
+  "id": "YrmDJn1NK",
+  "content": "./files/CCAFA422-8A1A-46CF-A954-12775E58B150.jpeg",
   "children": []
  }
 }
