@@ -967,13 +967,16 @@
    "2Zb31Of6Z",
    "4n-EKZTdS",
    "xBngLOEPr",
+   "AxoyY9sGi",
    "7B6bhwS2d"
   ]
  },
  "2Zb31Of6Z": {
   "id": "2Zb31Of6Z",
   "content": "1 cup of rice",
-  "children": []
+  "children": [
+   "R13ZhwBjf"
+  ]
  },
  "4n-EKZTdS": {
   "id": "4n-EKZTdS",
@@ -982,7 +985,7 @@
  },
  "xBngLOEPr": {
   "id": "xBngLOEPr",
-  "content": "400g of frozen peas, corn and carrots",
+  "content": "350g frozen peas, corn and carrots",
   "children": []
  },
  "7B6bhwS2d": {
@@ -997,14 +1000,17 @@
    "xJuTXnciC",
    "99z7JpB-6",
    "AKjAaq6uL",
-   "tGbmme2l3"
+   "tGbmme2l3",
+   "_sduKyPrG",
+   "OctdSWOn8"
   ]
  },
  "xJuTXnciC": {
   "id": "xJuTXnciC",
   "content": "cook the rice in a rice cooker with 1/4 tsp of salt",
   "children": [
-   "bx68i8Wmt"
+   "bx68i8Wmt",
+   "sUYwsaPYR"
   ]
  },
  "bx68i8Wmt": {
@@ -1024,7 +1030,7 @@
  },
  "zEvd3FYvL": {
   "id": "zEvd3FYvL",
-  "content": "Cheap, easy, somewhat healthy meal from ingredients that last for ages",
+  "content": "Cheap, easy, somewhat healthy meal from ingredients that last for ages, ready in 15mins",
   "children": []
  },
  "tGbmme2l3": {
@@ -1134,6 +1140,31 @@
  "o247nOYuZ": {
   "id": "o247nOYuZ",
   "content": "Egg Wrap",
+  "children": []
+ },
+ "AxoyY9sGi": {
+  "id": "AxoyY9sGi",
+  "content": "1 tbsp butter",
+  "children": []
+ },
+ "R13ZhwBjf": {
+  "id": "R13ZhwBjf",
+  "content": "I recommend arborio rice for this meal, but any will do",
+  "children": []
+ },
+ "sUYwsaPYR": {
+  "id": "sUYwsaPYR",
+  "content": "use slightly more water so the rice is soft (2 and a bit cups for 1 cup rice)",
+  "children": []
+ },
+ "_sduKyPrG": {
+  "id": "_sduKyPrG",
+  "content": "add butter",
+  "children": []
+ },
+ "OctdSWOn8": {
+  "id": "OctdSWOn8",
+  "content": "add a small amount of sriracha and season",
   "children": []
  }
 }
