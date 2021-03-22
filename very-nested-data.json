@@ -1077,6 +1077,7 @@
   "id": "CEyoB9gKW",
   "content": "Poultry",
   "children": [
+   "VY9hlrl0v",
    "ePwn-HMrD",
    "OEOewbVWh",
    "bIsT1lv4L",
@@ -1178,6 +1179,91 @@
  "YrmDJn1NK": {
   "id": "YrmDJn1NK",
   "content": "./files/CCAFA422-8A1A-46CF-A954-12775E58B150.jpeg",
+  "children": []
+ },
+ "VY9hlrl0v": {
+  "id": "VY9hlrl0v",
+  "content": "Chicken Breast",
+  "children": [
+   "ESptQPRuG",
+   "RMBfkJ23H",
+   "bSjloZRD-",
+   "W6s1UkcE_",
+   "ONYh32OXW"
+  ]
+ },
+ "ESptQPRuG": {
+  "id": "ESptQPRuG",
+  "content": "heat the pan while you’re cutting the chicken. I heat mine for about 8 mins",
+  "children": []
+ },
+ "RMBfkJ23H": {
+  "id": "RMBfkJ23H",
+  "content": "cut each breast in half so it’s half the thickness",
+  "children": []
+ },
+ "W6s1UkcE_": {
+  "id": "W6s1UkcE_",
+  "content": "cook each side for 3-4mins each",
+  "children": []
+ },
+ "ONYh32OXW": {
+  "id": "ONYh32OXW",
+  "content": "goes with:",
+  "children": [
+   "X79OUaCd9",
+   "GfHqWISgA",
+   "FT7dSHsj0",
+   "LTP28YzQD",
+   "k_5F2vri8",
+   "A9doAdfzA",
+   "hGzlaqfzn",
+   "8ABhGK5Fr"
+  ]
+ },
+ "bSjloZRD-": {
+  "id": "bSjloZRD-",
+  "content": "don’t crowd the pan - my stove can only do 300g at a time",
+  "children": []
+ },
+ "X79OUaCd9": {
+  "id": "X79OUaCd9",
+  "content": "toasted sandwiches ",
+  "children": []
+ },
+ "GfHqWISgA": {
+  "id": "GfHqWISgA",
+  "content": "burgers",
+  "children": []
+ },
+ "FT7dSHsj0": {
+  "id": "FT7dSHsj0",
+  "content": "frozen veggies",
+  "children": []
+ },
+ "LTP28YzQD": {
+  "id": "LTP28YzQD",
+  "content": "greek salad",
+  "children": []
+ },
+ "k_5F2vri8": {
+  "id": "k_5F2vri8",
+  "content": "asian salad",
+  "children": []
+ },
+ "A9doAdfzA": {
+  "id": "A9doAdfzA",
+  "content": "quesadillas",
+  "children": []
+ },
+ "hGzlaqfzn": {
+  "id": "hGzlaqfzn",
+  "content": "wraps/burrito",
+  "children": []
+ },
+ "8ABhGK5Fr": {
+  "id": "8ABhGK5Fr",
+  "content": "burrito bowl",
   "children": []
  }
 }
