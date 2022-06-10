@@ -1022,7 +1022,8 @@
   "content": "Recent",
   "children": [
    "9x3OmK8K3",
-   "riziSSbTA"
+   "riziSSbTA",
+   "SC4wZl_0Z"
   ]
  },
  "4_KU2Q-di": {
@@ -1450,6 +1451,116 @@
  "QZyUJ64yc": {
   "id": "QZyUJ64yc",
   "content": "./files/62DC3F27-6E17-4BA0-972E-CBE24B686835.jpeg",
+  "children": []
+ },
+ "SC4wZl_0Z": {
+  "id": "SC4wZl_0Z",
+  "content": "VegeMex Egg Salad",
+  "children": [
+   "gc3xN1qXe",
+   "TNbs3ewPN"
+  ]
+ },
+ "gc3xN1qXe": {
+  "id": "gc3xN1qXe",
+  "content": "ingredients",
+  "children": [
+   "lN5WBVjjY",
+   "rU13dXmSs",
+   "I-eCEL2EA",
+   "zADkVTYMZ",
+   "pgsrxFzYB",
+   "GJeCGYZr-"
+  ]
+ },
+ "TNbs3ewPN": {
+  "id": "TNbs3ewPN",
+  "content": "method",
+  "children": [
+   "nNl24-UAH",
+   "8lE1W3Bie",
+   "EowYWyKzV",
+   "KN0R15kSX",
+   "Qv-f4PjP_",
+   "sSwWSDAfF",
+   "2bKHGhCrR",
+   "_R1XL8azK",
+   "yos2Ns3TA"
+  ]
+ },
+ "nNl24-UAH": {
+  "id": "nNl24-UAH",
+  "content": "wash the eggs",
+  "children": []
+ },
+ "8lE1W3Bie": {
+  "id": "8lE1W3Bie",
+  "content": "add rice, hot tap water and eggs to a pot",
+  "children": []
+ },
+ "KN0R15kSX": {
+  "id": "KN0R15kSX",
+  "content": "when the water comes to a boil, about 6 mins, cover and reduce heat",
+  "children": []
+ },
+ "Qv-f4PjP_": {
+  "id": "Qv-f4PjP_",
+  "content": "at 13 mins take the eggs out and place in cold water",
+  "children": []
+ },
+ "sSwWSDAfF": {
+  "id": "sSwWSDAfF",
+  "content": "cook the rice until 30 mins",
+  "children": []
+ },
+ "2bKHGhCrR": {
+  "id": "2bKHGhCrR",
+  "content": "peel the eggs",
+  "children": []
+ },
+ "_R1XL8azK": {
+  "id": "_R1XL8azK",
+  "content": "combine the rice, beans, corn and jalapenos",
+  "children": []
+ },
+ "EowYWyKzV": {
+  "id": "EowYWyKzV",
+  "content": "salt the water",
+  "children": []
+ },
+ "yos2Ns3TA": {
+  "id": "yos2Ns3TA",
+  "content": "serve with eggs",
+  "children": []
+ },
+ "lN5WBVjjY": {
+  "id": "lN5WBVjjY",
+  "content": "1.5 cups of quinoa and brown rice",
+  "children": []
+ },
+ "rU13dXmSs": {
+  "id": "rU13dXmSs",
+  "content": "3 cups",
+  "children": []
+ },
+ "I-eCEL2EA": {
+  "id": "I-eCEL2EA",
+  "content": "6 eggs",
+  "children": []
+ },
+ "zADkVTYMZ": {
+  "id": "zADkVTYMZ",
+  "content": "1 can of corn ",
+  "children": []
+ },
+ "pgsrxFzYB": {
+  "id": "pgsrxFzYB",
+  "content": "1 can of black beans",
+  "children": []
+ },
+ "GJeCGYZr-": {
+  "id": "GJeCGYZr-",
+  "content": "half a jar of jalapenos",
   "children": []
  }
 }
